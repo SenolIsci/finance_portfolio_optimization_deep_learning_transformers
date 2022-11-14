@@ -1,2 +1,3 @@
 # finance_portfolio_optimization_deep_learning_transformers
-finance_portfolio_optimization deep learning transformer architecture
+finance_portfolio_optimization deep learning LSTM and  transformer architecture
+fine tuning using keras tuner
